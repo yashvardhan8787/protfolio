@@ -30,7 +30,7 @@ const projects = [
     technologies: "MERN Stack",
     images: [playground1, playground2, playground3 ,playground4],
     github: "https://github.com/yashvardhan8787/lms",
-    applink:"https://playground-3xs1.vercel.app/"
+    applink:"https://lms-zeas-yashvardhan-singhs-projects.vercel.app/"
   },
   {
     id: 2,
